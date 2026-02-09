@@ -107,6 +107,7 @@ Beautiful themes to customize the appearance of Orca Note.
 - [Official Site](https://www.orca-studio.com/orcanote/)
 - [Official Repository](https://github.com/sethyuan/orca-note)
 - [Plugins Docs](https://www.orca-studio.com/orcanote-docs/documents/Quick_Start.html)
+- [Agent Skills](https://github.com/sethyuan/orcanote-agent-skills) - A collection of skills and custom agents for AI agents to interact with Orca Note.
 
 #### Tutorials
 

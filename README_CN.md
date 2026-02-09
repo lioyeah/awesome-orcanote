@@ -107,6 +107,7 @@
 - [官网](https://www.orca-studio.com/orcanote/zh/)
 - [官方仓库](https://github.com/sethyuan/orca-note)
 - [插件文档](https://www.orca-studio.com/orcanote-docs/documents/Quick_Start.html)
+- [Agent Skills](https://github.com/sethyuan/orcanote-agent-skills) - 为 AI 智能体提供的虎鲸笔记相关技能与自定义Agent集合。
 
 #### 教程
 
